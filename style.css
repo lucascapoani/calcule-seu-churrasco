@@ -1,0 +1,93 @@
+body{
+    background-color: #FFD4B9;
+}
+
+h2{
+    font-family: 'Koulen', cursive;
+    color: #2D1100;
+    font-size: 60px;
+    margin-left: 130px;
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    width: fit-content;
+    height: 60px;
+}
+
+#churrasco{
+    font-family: 'Koulen', cursive;
+    color: #2D1100;
+    font-size: 90px;
+    box-sizing: border-box;
+    width: fit-content;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.imagem{
+    float: right;
+    width: 40%;
+    margin-right: 15%;
+}
+
+#container{
+    float: left;
+    width: 400px;
+    height: 400px;
+    margin-top: 100px;
+}
+
+#textos{
+    max-width: 400px;
+    margin-left: 10%;
+    display: inline-block;
+    padding-top: 5%;   
+    
+}
+
+input{
+    background-color: #2D1100;
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Koulen', cursive;
+    font-size: 20px;
+}
+
+button{
+    background-color: #F87A40;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Koulen', cursive;
+    font-size: 20px;
+}
+
+#resultado{
+    display: block;
+    padding: 1px;
+    margin-bottom: 1px;
+    box-sizing: content-box;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 100px;
+    color: #2D1100;
+    text-align: center;
+    font-family: 'Koulen', cursive;
+    font-size: 20px;
+}
