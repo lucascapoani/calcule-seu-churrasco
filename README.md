@@ -2,9 +2,7 @@
 
 <h2> :camera: Demonstração </h2>
 <br>  
-![-captura-churrascometro](https://user-images.githubusercontent.com/97242525/168909453-d9401f9e-c4d8-4780-b5c2-5ef8e32dfd89.jpg)
-
-
+![captura-churrascometro](https://user-images.githubusercontent.com/97242525/168910446-7795ed7d-9d5a-4aec-8615-f2332113e2a3.png)
  <br>
  <hr>
  <br>
