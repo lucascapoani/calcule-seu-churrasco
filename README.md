@@ -2,11 +2,10 @@
 
 <h2> :camera: Demonstração </h2>
 <br>  
-![captura-churrascometro](https://user-images.githubusercontent.com/97242525/168910446-7795ed7d-9d5a-4aec-8615-f2332113e2a3.png)
- <br>
+
+ <br>![1-1](https://user-images.githubusercontent.com/97242525/168910965-6faedb28-c4c9-4669-9ea2-df4648ed11f6.png)
+ <br><br>
  <hr>
- <br>
- <br>
  <h2> :gear: Tecnologias </h2>
  <br>
     <h4> :pushpin: HTML </h4>
@@ -14,7 +13,6 @@
     <h4> :pushpin: JavaScript </h4>
  <br>
  <hr>
- <br> 
  <h2> :computer: Projeto </h2>
  <p> Projeto criado com intuito de calcular a quantidade de bebidas alcoólicas, carnes e bebidas não alcoólicas para um churrasco por um determinado número de horas com um número determinado de adultos e crianças.
 
